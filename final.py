@@ -8,6 +8,8 @@
 # Licence:     i don't know what to put here.
 #-------------------------------------------------------------------------------
 
+# ChatGPT helped slightly in writing this
+
 import os
 
 # Clear's game screen
